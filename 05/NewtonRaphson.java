@@ -130,7 +130,8 @@ if (pilihan ==1 ){
     }
     System.out.println("========================================================================");
     System.out.printf("Akar x = %.5f\n", xn);
-} // if 1
+} 
+// if 1
 //2
 
     else if (pilihan ==2 ){
